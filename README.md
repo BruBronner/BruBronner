@@ -64,6 +64,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, o que me prop
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
 
 <img 
     align="left" 
