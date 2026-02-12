@@ -1,8 +1,5 @@
 # Brunno Bronner
 
-Sou uma pessoa curiosa e apaixonada por tecnologia, sempre em busca de aprimoramento e inovação. Possuo um sólido conhecimento em Python, dedicando meu tempo ao desenvolvimento de minhas habilidades na linguagem para aplicar em projetos reais e complexos.
-
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, o que me proporciona uma compreensão mais ampla das soluções tecnológicas e das dinâmicas do mercado. Além disso, conquistei certificações reconhecidas de instituições renomadas como Fortinet, Cisco, DIO e Google, o que evidencia meu compromisso com a excelência, atualização constante e aprofundamento nas áreas de segurança da informação, redes e desenvolvimento.
 
 
 ### 🤖 Linguagens e Tecnologias
